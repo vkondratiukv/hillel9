@@ -2,11 +2,27 @@ section {
   background-color: #c4c4c4;
   width: 1100px;
   height: 800px;
+  left: 50px;
+  margin: 0 auto;
 }
 
 div {
   background-color: #e6e6e6;
-  position: absolute;
   width: 1000px;
   height: 200px;
+  margin: 0 auto;
+}
+
+span {
+  padding: 100px;
+  background: red;
+  display: inline-block;
+}
+
+.float1 {
+  float: left;
+}
+
+.float2 {
+  float: right;
 }
