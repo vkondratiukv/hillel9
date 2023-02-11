@@ -1,0 +1,12 @@
+section {
+  background-color: #c4c4c4;
+  width: 1100px;
+  height: 800px;
+}
+
+div {
+  background-color: #e6e6e6;
+  position: absolute;
+  width: 1000px;
+  height: 200px;
+}
